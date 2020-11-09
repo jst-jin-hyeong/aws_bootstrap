@@ -4,11 +4,11 @@
 1. 처음 시작할 때
 
 ```
-curl "https://raw.githubusercontent.com/mcwithimp/aws_bootstrap/master/start.sh" | bash 
+curl "https://raw.githubusercontent.com/jst-jin-hyeong/aws_bootstrap/master/start.sh" | bash 
 ```
 
 2. 재부팅할 때
 
 ```
-curl "https://raw.githubusercontent.com/mcwithimp/aws_bootstrap/master/reboot.sh" | bash 
+curl "https://raw.githubusercontent.com/jst-jin-hyeong/aws_bootstrap/master/reboot.sh" | bash 
 ```
